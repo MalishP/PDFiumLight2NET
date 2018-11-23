@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFiumLight2NET", "PDFiumLight2NET\PDFiumLight2NET.csproj", "{4505DA95-C765-4812-94F8-D67810701A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4505DA95-C765-4812-94F8-D67810701A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4505DA95-C765-4812-94F8-D67810701A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4505DA95-C765-4812-94F8-D67810701A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4505DA95-C765-4812-94F8-D67810701A26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42256F4D-41DE-455E-B790-6EABB345190A}
+	EndGlobalSection
+EndGlobal
